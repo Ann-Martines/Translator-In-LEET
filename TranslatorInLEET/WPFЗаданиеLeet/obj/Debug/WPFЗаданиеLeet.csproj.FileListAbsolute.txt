@@ -1,0 +1,19 @@
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.exe.config
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.exe
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.pdb
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.csprojResolveAssemblyReference.cache
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\MainWindow.g.cs
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\App.g.cs
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet_MarkupCompile.cache
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet_MarkupCompile.lref
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\MainWindow.baml
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.g.resources
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.Properties.Resources.resources
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.csproj.GenerateResource.Cache
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.exe
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.pdb
+c:\users\anhen\documents\visual studio 2015\Projects\WPFЗаданиеLeet\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.XML
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.exe.config
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.XML
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.exe
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.pdb

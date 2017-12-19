@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WPFЗаданиеLeet</name>
+    </assembly>
+    <members>
+        <member name="P:WPFЗаданиеLeet.Translate.Result">
+            <summary>
+            The property returning the translated symbol
+            </summary>
+        </member>
+        <member name="M:WPFЗаданиеLeet.Translate.#ctor">
+            <summary>
+            Filling of the dictionary with keys and values
+            </summary>
+        </member>
+        <member name="M:WPFЗаданиеLeet.Translate.ToLeet(System.String)">
+            <summary>
+            Makes a transfer to leet letters
+            </summary>
+            <param name="str"></param>
+        </member>
+        <member name="M:WPFЗаданиеLeet.Translate.ToEnglish(System.String)">
+            <summary>
+            Makes a transfer to the English letters
+            </summary>
+            <param name="str"></param>
+        </member>
+        <member name="T:WPFЗаданиеLeet.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:WPFЗаданиеLeet.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WPFЗаданиеLeet.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:WPFЗаданиеLeet.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:WPFЗаданиеLeet.MainWindow.btn_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            By pressing there is a transfer
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:WPFЗаданиеLeet.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFЗаданиеLeet.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:WPFЗаданиеLeet.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:WPFЗаданиеLeet.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:WPFЗаданиеLeet.Properties.Resources.icons8_translation_50">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

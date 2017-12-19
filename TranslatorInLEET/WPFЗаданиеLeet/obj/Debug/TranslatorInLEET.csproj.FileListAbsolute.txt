@@ -1,0 +1,15 @@
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.exe.config
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.XML
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.exe
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\bin\Debug\WPFЗаданиеLeet.pdb
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\TranslatorInLEET.csprojResolveAssemblyReference.cache
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\MainWindow.g.cs
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\App.g.cs
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet_MarkupCompile.cache
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet_MarkupCompile.lref
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\MainWindow.baml
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.g.resources
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.Properties.Resources.resources
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\TranslatorInLEET.csproj.GenerateResource.Cache
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.exe
+C:\Users\Anhen\Desktop\TranslationInLEET\WPFЗаданиеLeet\obj\Debug\WPFЗаданиеLeet.pdb
